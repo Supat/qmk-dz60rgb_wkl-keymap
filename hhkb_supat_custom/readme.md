@@ -5,4 +5,4 @@ Features:
 
 - 2 tap toogle (TT) FN key with LED indicator
 - Capslock LED indicator at tab button
-- VIA support
+- VIM mode ported from ergodox_ez (still have compatibility issues with macOS)
