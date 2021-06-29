@@ -1,4 +1,4 @@
-# DZ60RGB_WKL QMK Keymap Supat Custom
+# DZ60RGB_WKL V2 QMK Keymap Supat Custom
 
 Default layout: macOS HHKB clone
 Features:
