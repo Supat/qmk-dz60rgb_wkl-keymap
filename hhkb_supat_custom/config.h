@@ -1,6 +1,6 @@
 #pragma once
 
-enum layout_names {
+enum layout {
     _QWERTY=0,
     _FUNC,
     _VIM,
@@ -10,7 +10,7 @@ enum layout_names {
 #ifdef TAPPING_TOGGLE
 #undef TAPPING_TOGGLE
 #endif
-#define TAPPING_TOGGLE 2
+#define TAPPING_TOGGLE 3
 
 #define RGBLIGHT_LAYERS
 #define RGBLIGHT_LAYERS_OVERRIDE_RGB_OFF
